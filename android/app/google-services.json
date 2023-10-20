@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1051465387788",
+    "firebase_url": "https://member-id-750fb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "member-id-750fb",
+    "storage_bucket": "member-id-750fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051465387788:android:03193e203a3305aa3b4329",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtlTrygzhDjgoHJMnQIvojZKV4zZjPNcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051465387788:android:8adc68f904dadfdd3b4329",
+        "android_client_info": {
+          "package_name": "id.quizapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtlTrygzhDjgoHJMnQIvojZKV4zZjPNcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
