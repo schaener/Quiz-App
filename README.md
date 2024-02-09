@@ -1,6 +1,6 @@
 # Quiz App
 
-Quiz App is a Flutter project designed to provide a modern and user-friendly application.
+Quiz Apps is a Flutter project designed to provide a modern and user-friendly application.
 
 ## Tech
 
